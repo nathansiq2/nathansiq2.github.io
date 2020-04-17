@@ -1,3 +1,3 @@
-# Attack of the Bracket!
+# Vaamooo brincar
 
-A simple drag-and-drop table for making movie brackets.
+Arraste o seu filme favorito

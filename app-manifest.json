@@ -1,1 +1,0 @@
-{"name":"Sample - Users","menuName":"Users","parentMenuName":"Sample","rootnode":"<div id=\"app\"></div>","entrypoint":"js/runtime~main.8ea6e1112d2b35088df8.js","assets":["js/vendors.33b92e80c9549d8d3238.js","js/main.7f6356f440ffe94ee36c.js"],"environmentProps":{"apiBasePath":"API_BASE_URL","version":"VERSION"},"viewEngine":{"name":"react","version":"16.13.1"}}
